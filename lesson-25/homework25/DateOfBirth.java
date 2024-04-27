@@ -5,7 +5,7 @@ public class DateOfBirth {
         // Задаем значение X (произведение дня рождения)
         int birthDay = 16;
         int birthMonth = 11;
-        int birthYear = 1979;
+        int birthYear = 1234567;
         int X = birthDay + birthMonth + birthYear;
 
         // Вызываем метод для вычисления суммы чисел от 1 до X
