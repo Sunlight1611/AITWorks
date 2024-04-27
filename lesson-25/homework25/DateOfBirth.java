@@ -5,7 +5,7 @@ public class DateOfBirth {
         // Задаем значение X (произведение дня рождения)
         int birthDay = 16;
         int birthMonth = 11;
-        int birthYear = 2010;
+        int birthYear = 1979;
         int X = birthDay + birthMonth + birthYear;
 
         // Вызываем метод для вычисления суммы чисел от 1 до X
@@ -13,6 +13,7 @@ public class DateOfBirth {
 
         // Выводим результат
         System.out.println("Сумма чисел от 1 до " + X + " равна " + sum);
+
     }
 
     public static int calculateSum(int num) {
