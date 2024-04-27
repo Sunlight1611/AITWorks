@@ -1,0 +1,16 @@
+package classwork.car;
+
+import classwork.car.model.Car;
+
+public class CarAppl {
+    public static void main(String[] args) {
+
+        Car car = new Car("Red", "Audi",false,25000, 2005,156000);
+        car.displayCar();
+
+        car.moveCar();
+
+
+
+    }
+}
