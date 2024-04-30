@@ -16,6 +16,8 @@ public class DateOfBirth {
 
     }
 
+    public static void myMethod() {}
+
     public static int calculateSum(int num) {
         // Переменная для хранения суммы
         int sum = 0;
