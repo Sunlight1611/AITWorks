@@ -30,6 +30,12 @@
       <sourceFolder url="file://$MODULE_DIR$/Beratung-011" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-24" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-25" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-26" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-27" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-02" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/homework28" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Consultation11.05" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
