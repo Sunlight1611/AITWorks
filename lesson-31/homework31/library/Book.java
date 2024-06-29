@@ -19,9 +19,6 @@ public class Book {
         return isbn;
     }
 
-    public void setIsbn(long isbn) {
-        this.isbn = isbn;
-    }
 
     public String getAuthor() {
         return author;

@@ -35,9 +35,21 @@
       <sourceFolder url="file://$MODULE_DIR$/lesson-02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-28" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/homework28" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Consultation11.05" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Consultation11.05" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-29" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lesson-30" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-31" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-32" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-33" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-34" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-35" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-36" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-37" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-38" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-39" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-40" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-41" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lesson-42" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
